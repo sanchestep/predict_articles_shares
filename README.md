@@ -1,6 +1,8 @@
 # predict_articles_shares
 Analysing Kaggle dataset of online articles and predicting number of shares
 
+In a  hypothetical situation, that can be useful for an online news company to know how to spend budget to promote articles. This data analysis project may help to predict how many shares an article would have.
+
 Kaggle dataset: https://www.kaggle.com/datasets/srikaranelakurthy/online-news-popularity.
 
 Its size 39644 rows, 61 columns.
