@@ -1,11 +1,14 @@
 # predict_articles_shares
 Analysing Kaggle dataset of online articles and predicting number of shares
 
-Kaggle dataset: https://www.kaggle.com/datasets/srikaranelakurthy/online-news-popularity
+Kaggle dataset: https://www.kaggle.com/datasets/srikaranelakurthy/online-news-popularity.
+
+Its size 39644 rows, 61 columns.
 
 Data preparation, Exploratory Data Analysis, Feature Engineering and Random Forest regression model with hypertuning to predict number of articles' shares. Columns were MinMax Scaled for the model.
 
 Best MSE: 0.00009
+
 Best MAE: 0.004
 
 About dataset:
